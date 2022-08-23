@@ -4,7 +4,6 @@ import { Layout, Typography, Space} from 'antd'
 import { Navbar, Exchanges, Homepage, Cryptocurrencies, News, CryptoDetails } from './components'
 
 import './App.css'
-import 'antd/dist/antd.css'
 
  const App = () => (  
     <div className="app">
